@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GPAberturas",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -67,9 +67,7 @@
     "gdpr": false,
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/Guille/Documents"
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
