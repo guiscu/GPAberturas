@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GPAberturas",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -1190,6 +1190,9 @@
             },
             ".content-head": {
               "max-width": "800px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_name": "clients03",
